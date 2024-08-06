@@ -109,8 +109,8 @@ Ce script est une application Streamlit qui utilise la technologie RAG (Retrieva
 
 - **`.env`**:
   - Environment variables file.
-  - **Note**: This file is not included in the repository and needs to be created by the user.
-  - Add your Google API key in this file:
+  - **Note**: Ce fichier n'est pas inclus dans le dépôt et doit être créé par l'utilisateur.
+  - Ajoutez votre clé API Google dans ce fichier:
     ```
     GOOGLE_API_KEY=your_google_api_key_here
     ```
