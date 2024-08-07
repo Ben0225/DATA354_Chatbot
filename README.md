@@ -121,15 +121,6 @@ Ce script est une application Streamlit qui utilise la technologie RAG (Retrieva
 
 
 
-
-
-
-
-
-
-
-
-
     
 
 ## Usage
@@ -137,3 +128,10 @@ Lancer d'abord le fichier scraping.py afin de générer le fichier "articles.jso
 .Pour exécuter l'application, utilisez la commande suivante:
 ```bash
 streamlit run rag.py
+```
+
+
+
+#Vidéo de la démonstration
+
+[Demonstration.Chatbot.mp4](https://github.com/user-attachments/assets/a9db18d9-17fc-405e-9a1a-3124ac1f2ad7)
